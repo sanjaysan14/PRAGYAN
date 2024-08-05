@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc689024.css",
+    "main.js": "/static/js/main.b73f1551.js",
+    "static/media/techimage.jpg": "/static/media/techimage.796c39e0234446863fc3.jpg",
+    "static/media/science book ga 0.png": "/static/media/science book ga 0.e15155734f85d44fe722.png",
+    "static/media/edbackground.jpg": "/static/media/edbackground.95b1a6c6412832c1c68e.jpg",
+    "static/media/finalrover.png": "/static/media/finalrover.85062f4593fabec05066.png",
+    "static/media/gif-rocket-1.gif": "/static/media/gif-rocket-1.8800867bc55b4fde0081.gif",
+    "static/media/student.png": "/static/media/student.c666871284ba7552527e.png",
+    "static/media/eventslide.gif": "/static/media/eventslide.8879cf174962eeb8efe2.gif",
+    "static/media/lab.jpg": "/static/media/lab.4ed20061041c68b80316.jpg",
+    "static/media/rover.png": "/static/media/rover.8ff27a9ad74870b168d7.png",
+    "static/media/eventslide1.png": "/static/media/eventslide1.5c2ee57cda3423b90ab4.png",
+    "static/media/blog1.jpg": "/static/media/blog1.fbb525c13d76fb59fa35.jpg",
+    "static/media/roket.png": "/static/media/roket.d6e06160316fd4aeb72d.png",
+    "static/media/blog2.jpg": "/static/media/blog2.9c0d67c6781ab75020d3.jpg",
+    "static/media/Ground-1.jpg": "/static/media/Ground-1.cf6f5ab994133e918a4b.jpg",
+    "static/media/blog3.jpg": "/static/media/blog3.06d8067d74f053db3661.jpg",
+    "static/media/blog4.jpg": "/static/media/blog4.eec79044a9cc35594544.jpg",
+    "static/media/pic.webp": "/static/media/pic.419b0a24edabde2878ba.webp",
+    "static/media/logo_bg.png": "/static/media/logo_bg.c0a79a8ab5fa2cd345da.png",
+    "static/media/Mission.png": "/static/media/Mission.2c46894503d6c561e7a3.png",
+    "static/media/phone.png": "/static/media/phone.502f1ecd24f2918ec82a.png",
+    "static/media/location.png": "/static/media/location.d78af449beeb150d4a0e.png",
+    "static/media/browser.png": "/static/media/browser.58e03fd48286c5a8a0a5.png",
+    "static/media/A graphic designer.jpg": "/static/media/A graphic designer.ad72def14a205da09899.jpg",
+    "static/media/minimalist logo icon of a human AI head made of PC.jpg": "/static/media/minimalist logo icon of a human AI head made of PC.7aca36dbcddc5171544d.jpg",
+    "static/media/As the stock market soars to new heights.jpg": "/static/media/As the stock market soars to new heights.a11696e63b8a83daaabd.jpg",
+    "static/media/a web 3 teacher help a student to understand web 3.jpg": "/static/media/a web 3 teacher help a student to understand web 3.4dd606b272949f532693.jpg",
+    "static/media/mail.png": "/static/media/mail.1264fd9de25cfaa06ab5.png",
+    "static/media/vision.png": "/static/media/vision.5e27c3733ba6b17b23c9.png",
+    "index.html": "/index.html",
+    "main.dc689024.css.map": "/static/css/main.dc689024.css.map",
+    "main.b73f1551.js.map": "/static/js/main.b73f1551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc689024.css",
+    "static/js/main.b73f1551.js"
+  ]
+}
